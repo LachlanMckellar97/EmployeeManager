@@ -1,5 +1,5 @@
 
-use employees;
+use employeeManager_db;
 
 INSERT INTO department
     (name)
