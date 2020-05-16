@@ -1,0 +1,26 @@
+{
+  "name": "employeemanager",
+  "version": "1.0.0",
+  "description": "Employee Manager",
+  "main": "Manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LachlanMckellar97/EmployeeManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LachlanMckellar97/EmployeeManager/issues"
+  },
+  "homepage": "https://github.com/LachlanMckellar97/EmployeeManager#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
+}
